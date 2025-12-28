@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Surprise for My Wife!</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 50px; background: #f9f9f9; }
+    h1 { color: #ff69b4; }
+  </style>
+</head>
+<body>
+  <h1>Surprise!</h1>
+  <p>simplyspiraled.com is officially yours now.</p>
+  <p>I can't wait to see what you create with it for your business.</p>
+  <p>All my love ❤️</p>
+  <img src="https://example.com/your-photo.jpg" alt="Us" width="400">
+</body>
+</html>
